@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imfurkaann
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning C# Python and MatLab
+- 🌱 I’m currently learning Python and MatLab
 - 💞️ I’m looking to collaborate on automation and artificial intelligence
 - 📫 How to reach me imfurkaann@gmail.com
 
