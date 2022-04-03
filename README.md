@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on Improve myself.
 
-- 🌱 I’m currently learning Data Science, Data Visualization, Artificial Intelligence and Automation. 
+- 🌱 I’m currently learning Data Science, Data Visualization, Artificial Intelligence and Visual Processing. 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles. 
   
