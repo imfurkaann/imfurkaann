@@ -10,9 +10,9 @@
 <div size='20px'>   Hi! My name is Furkan. Thank You for taking the time to view my GitHub Profile  
 </div>
 
-<h2> About Me <img src = "https://www.pngfind.com/pngs/m/42-421997_hello-icon-clipart-web-icons-png-hello-orange.png" width = 100px></h2>
+<h2> About Me <img src = "" width = 100px></h2>
 
-<img width="45%" align="right" alt="Github" src="https://media.giphy.com/media/5dYiWM1Pm8HMLHVG0Z/giphy.gif" />
+<img width="45%" align="right" alt="Github" src="https://media.giphy.com/media/cTZ7btUisEisM/giphy.gif" />
 
 
 - 🔭 Hi I am Furkan. I am trying to improve myself in this field by understanding the importance of artificial intelligence. I am interested in data visualization,       visual processing and machine learning. I want to continue my interest in technology that started in high school. At the university, I try to be better by adding       not only what I learned at school, but also my own efforts.
