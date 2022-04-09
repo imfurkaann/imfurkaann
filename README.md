@@ -15,7 +15,9 @@
 <img width="45%" align="right" alt="Github" src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" />
 
 
-- 🔭 Hi I am Furkan. I am trying to improve myself in this field by understanding the importance of artificial intelligence. I am interested in data visualization,       visual processing and machine learning. I want to continue my interest in technology that started in high school. At the university, I try to be better by adding       not only what I learned at school, but also my own efforts.  What i'm learning now OpenCV, Keras, Scikit Learn, Pytorch, Seaborn, Matplotlib, Numpy.
+- 🔭 Hi I am Furkan. I am trying to improve myself in this field by understanding the importance of artificial intelligence. I am interested in data visualization,       visual processing and machine learning. I want to continue my interest in technology that started in high school. At the university, I try to be better by adding       not only what I learned at school, but also my own efforts.
+
+- 🔥 What i'm learning now Scikit Learn, OpenCV, Keras, Pytorch, Seaborn, Matplotlib, Numpy, Pandas.
 
 - 🌱 I’m currently learning Data Science, Data Visualization, Artificial Intelligence and Visual Processing. 
 
