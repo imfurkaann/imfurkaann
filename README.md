@@ -30,12 +30,13 @@
 <a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=opencv&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a>
 <a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 <a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png'> </a>
-  
-
-
+<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png'> </a>
+<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://seaborn.pydata.org/_images/logo-tall-lightbg.svg'> </a>
+<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://image.pngaaa.com/242/4152242-middle.png'> </a>
+<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://www.btogrenme.com/wp-content/uploads/2021/03/numpy-1.png'> </a>
+<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png'> </a>
 <a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-
 <a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=matlab&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'> </a>
 
 
