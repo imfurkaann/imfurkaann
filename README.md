@@ -10,7 +10,7 @@
 <div size='20px'>   Hi! My name is Furkan. Thank You for taking the time to view my GitHub Profile  
 </div>
 
-<h2> About Me <img src = "" width = 100px></h2>
+<h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px></h2>
 
 <img width="45%" align="right" alt="Github" src="https://media.giphy.com/media/cTZ7btUisEisM/giphy.gif" />
 
