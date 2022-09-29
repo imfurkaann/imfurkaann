@@ -1,5 +1,5 @@
 <div align="center">
-<img width="70%" height = "250px" src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" alt="cover" />
+<img width="70%" height = "250px" src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -13,7 +13,6 @@
 <h2> About Me <img src = "https://media.giphy.com/media/TPhQgdRJrD0k50iBDT/giphy.gif" width = 32px></h2>
 
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/U3aSIK0Q0hP6B9VkkH/giphy-downsized-large.gif" />
-</div>
 
 
 - 🔭 Hi I am Furkan. I am trying to improve myself in this field by understanding the importance of artificial intelligence. I am interested in data visualization,       visual processing and machine learning. I want to continue my interest in technology that started in high school. At the university, I try to be better by adding       not only what I learned at school, but also my own efforts.
