@@ -1,53 +1,11 @@
-<div align="center">
-<img width="70%" height = "250px" src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" alt="cover" />
-</div>
+<h1 align="center">Hi 👋, I'm Furkan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imfurkaann&label=Profile%20views&color=0e75b6&style=flat" alt="imfurkaann" /> </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/imfurkaann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imfurkaann" height="30" width="40" /></a>
+<a href="https://kaggle.com/imfurkaann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imfurkaann" height="30" width="40" /></a>
 </p>
-<div size='20px'>   Hi! My name is Furkan. Thank You for taking the time to view my GitHub Profile  
-</div>
 
-<h2> About Me <img src = "https://media.giphy.com/media/TPhQgdRJrD0k50iBDT/giphy.gif" width = 32px></h2>
-
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/U3aSIK0Q0hP6B9VkkH/giphy-downsized-large.gif" />
-
-
-- 🔭 Hi I am Furkan. I am trying to improve myself in this field by understanding the importance of artificial intelligence. I am interested in data visualization,       visual processing and machine learning. I want to continue my interest in technology that started in high school. At the university, I try to be better by adding       not only what I learned at school, but also my own efforts.
-
-- 🔥 What i'm learning now Scikit Learn, OpenCV, Keras, Pytorch, Seaborn, Matplotlib, Numpy, Pandas.
-
-- 🌱 I’m currently learning Data Science, Data Visualization, Artificial Intelligence and Visual Processing. 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles. 
-  
-- 📧 imfurkaann@gmail.com 
-  
-
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=opencv&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://seaborn.pydata.org/_images/logo-tall-lightbg.svg'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://image.pngaaa.com/242/4152242-middle.png'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://www.btogrenme.com/wp-content/uploads/2021/03/numpy-1.png'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/imfurkaann?tab=repositories&q=&type=&language=matlab&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'> </a>
-
-
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="55px"> </h2>
-<a href = 'https://www.linkedin.com/in/imfurkaann'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/imfurkaann'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
