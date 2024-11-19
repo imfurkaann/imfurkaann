@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi I am Furkan. I am trying to improve myself in this field by understanding the importance of artificial intelligence. I am interested in data science and machine learning. I want to continue my interest in technology that started in high school. At the university, I try to be better by adding not only what I learned at school, but also my own efforts.<br><br>🔥 What i'm learning now Scikit Learn, Keras, TensorFlow.<br><br>🌱 I’m currently learning Data Science, Machine Learning, Artificial Intelligence.<br><br>📧 imfurkaann@gmail.com
+🔭 Hi I am Furkan. I am trying to improve myself in this field by understanding the importance of artificial intelligence. I am interested in data science and machine learning. I want to continue my interest in technology that started in high school. At the university, I try to be better by adding not only what I learned at school, but also my own efforts.<br><br>🔥 What i'm learning now Scikit Learn, Pandas, Matplotlib, MongoDB, Docker.<br><br>🌱 I’m currently learning Data Science, Machine Learning, Artificial Intelligence.<br><br>📧 imfurkaann@gmail.com
 
 
 ## 🌐 Socials:
